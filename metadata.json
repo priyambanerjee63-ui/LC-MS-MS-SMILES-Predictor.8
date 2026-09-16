@@ -1,0 +1,6 @@
+{
+  "name": "LC-MS/MS SMILES Predictor",
+  "description": "Predict 2D chemical structures (SMILES) from LC-MS/MS mass spectra, fragment ion patterns, and precursor adducts for known and novel molecules.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
